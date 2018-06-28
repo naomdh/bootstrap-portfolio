@@ -1,0 +1,54 @@
+
+
+	#square {
+
+		margin:5px;
+	}
+
+	.rounded {
+
+		border-radius: 10px;
+	}
+
+	#navpadding {
+
+		padding: 10px;
+		margin-bottom: 10px;
+		padding-left:0px;
+	}
+
+	body {
+
+		font-family: 'Roboto', serif;
+		padding:20px;
+	}
+
+	h1	{
+
+		font-size: 50px;
+	}
+
+	h2	{
+
+		color: grey;
+	}
+
+	a  {
+
+		text-decoration: none;
+	}
+
+	a:link {
+
+	    color: blue;
+	}
+
+	a:visited {
+
+	    color: purple;
+	}
+
+	a:hover {
+		
+	    color: grey;
+	}
