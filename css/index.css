@@ -10,6 +10,10 @@ h1{
 	color:#331032;
 }
 
+footer {
+	margin: 20px;
+}
+
 .navbar-default {
     background-color: #331032;
     border-color: #e7e7e7;
